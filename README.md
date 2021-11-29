@@ -1,3 +1,3 @@
 # Advents-Special 2021
 
-- [Materialien und Werkzeuge](./materialien-und-werkzeuge.md)
+- [Materialien und Werkzeuge](./dokumente/materialien-und-werkzeuge.md)
