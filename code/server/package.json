@@ -1,0 +1,8 @@
+{
+  "name": "led-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.17.2",
+    "rpi-ws281x": "1.0.36"
+  }
+}
